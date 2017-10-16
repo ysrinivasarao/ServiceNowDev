@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Contact details" section_id="338b9c21db71030069db5901cf961998" sys_domain="232b0f26dba3320069db5901cf961964" table="x_78333_hotel_guest" version="3" view="human_resources">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>fb8b9c21db71030069db5901cf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>building</element>
+            <position>1</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>7f8b9c21db71030069db5901cf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street</element>
+            <position>2</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>ff8b9c21db71030069db5901cf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>3</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>738b9c21db71030069db5901cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>f38b9c21db71030069db5901cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip</element>
+            <position>5</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>778b9c21db71030069db5901cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>6</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>f78b9c21db71030069db5901cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>7b8b9c21db71030069db5901cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>8</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>fb8b9c21db71030069db5901cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>9</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>4c9b9c21db71030069db5901cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>10</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>cc9b9c21db71030069db5901cf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_phone</element>
+            <position>11</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>409b9c21db71030069db5901cf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>home_phone</element>
+            <position>12</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>c09b9c21db71030069db5901cf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_id>449b9c21db71030069db5901cf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact details" display_value="Contact details" name="x_78333_hotel_guest" sys_domain="232b0f26dba3320069db5901cf961964" view="f05069011b320100e90d928f3d071326">338b9c21db71030069db5901cf961998</sys_ui_section>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Contact details</caption>
+            <header>false</header>
+            <name>x_78333_hotel_guest</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:55:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>232b0f26dba3320069db5901cf961964</sys_domain>
+            <sys_domain_path>!!!/!!#/!!&amp;/</sys_domain_path>
+            <sys_id>338b9c21db71030069db5901cf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Contact details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hotel" source="x_78333_hotel">4fc7d4e1db31030069db5901cf961973</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">4fc7d4e1db31030069db5901cf961973</sys_scope>
+            <sys_update_name>sys_ui_section_338b9c21db71030069db5901cf961998</sys_update_name>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:55:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Human Resources" name="human_resources">f05069011b320100e90d928f3d071326</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="232b0f26dba3320069db5901cf961964" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Hotel</name>
+        <order/>
+        <roles>x_78333_hotel.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>ysrinivasarao</sys_created_by>
+        <sys_created_on>2017-10-13 19:38:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>232b0f26dba3320069db5901cf961964</sys_domain>
+        <sys_domain_path>!!!/!!#/!!&amp;/</sys_domain_path>
+        <sys_id>93c7d42ddb31030069db5901cf9619af</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Hotel</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hotel" source="x_78333_hotel">4fc7d4e1db31030069db5901cf961973</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">4fc7d4e1db31030069db5901cf961973</sys_scope>
+        <sys_update_name>sys_app_application_93c7d42ddb31030069db5901cf9619af</sys_update_name>
+        <sys_updated_by>ysrinivasarao</sys_updated_by>
+        <sys_updated_on>2017-10-13 19:38:36</sys_updated_on>
+        <title>Hotel</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

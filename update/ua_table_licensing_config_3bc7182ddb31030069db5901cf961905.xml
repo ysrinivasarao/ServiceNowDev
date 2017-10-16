@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_78333_hotel_check_in</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>ysrinivasarao</sys_created_by>
+        <sys_created_on>2017-10-13 19:38:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3bc7182ddb31030069db5901cf961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_78333_hotel_check_in</sys_name>
+        <sys_package display_value="Hotel" source="x_78333_hotel">4fc7d4e1db31030069db5901cf961973</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">4fc7d4e1db31030069db5901cf961973</sys_scope>
+        <sys_update_name>ua_table_licensing_config_3bc7182ddb31030069db5901cf961905</sys_update_name>
+        <sys_updated_by>ysrinivasarao</sys_updated_by>
+        <sys_updated_on>2017-10-13 19:38:38</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

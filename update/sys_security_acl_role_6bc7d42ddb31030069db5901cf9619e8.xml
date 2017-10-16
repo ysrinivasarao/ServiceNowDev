@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>ysrinivasarao</sys_created_by>
+        <sys_created_on>2017-10-13 19:38:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6bc7d42ddb31030069db5901cf9619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_78333_hotel_check_in.x_78333_hotel.user</sys_name>
+        <sys_package display_value="Hotel" source="x_78333_hotel">4fc7d4e1db31030069db5901cf961973</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">4fc7d4e1db31030069db5901cf961973</sys_scope>
+        <sys_security_acl display_value="x_78333_hotel_check_in">efc7d42ddb31030069db5901cf9619e4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6bc7d42ddb31030069db5901cf9619e8</sys_update_name>
+        <sys_updated_by>ysrinivasarao</sys_updated_by>
+        <sys_updated_on>2017-10-13 19:38:37</sys_updated_on>
+        <sys_user_role display_value="x_78333_hotel.user" name="x_78333_hotel.user">57c7d42ddb31030069db5901cf9619b3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

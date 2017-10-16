@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="x_78333_hotel_reservation" relationship="" sys_domain="232b0f26dba3320069db5901cf961964" table="x_78333_hotel_m2m_guests_reservations" version="2" view="">
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_78333_hotel_m2m_guests_reservations</name>
+            <parent>x_78333_hotel_reservation</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 23:18:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>232b0f26dba3320069db5901cf961964</sys_domain>
+            <sys_domain_path>!!!/!!#/!!&amp;/</sys_domain_path>
+            <sys_id>902a89e1dbf1030069db5901cf9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">4fc7d4e1db31030069db5901cf961973</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 23:18:30</sys_updated_on>
+            <sys_user display_value="Srinivasa Rao Yadlapalli">8e2acfe2dba3320069db5901cf961954</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

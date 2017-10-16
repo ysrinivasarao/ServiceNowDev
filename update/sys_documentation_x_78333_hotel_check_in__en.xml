@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Check-In" language="en" table="x_78333_hotel_check_in">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Check-In</label>
+            <language>en</language>
+            <name>x_78333_hotel_check_in</name>
+            <plural>Check-Ins</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 19:38:38</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b3c7d42ddb31030069db5901cf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Check-In</sys_name>
+            <sys_package display_value="Hotel" source="x_78333_hotel">4fc7d4e1db31030069db5901cf961973</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">4fc7d4e1db31030069db5901cf961973</sys_scope>
+            <sys_update_name>sys_documentation_x_78333_hotel_check_in__en</sys_update_name>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 19:38:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

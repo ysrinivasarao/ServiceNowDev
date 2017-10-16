@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="232b0f26dba3320069db5901cf961964" table="x_78333_hotel_guest" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Guest - Default view" name="x_78333_hotel_guest" related_list="NULL" sys_domain="232b0f26dba3320069db5901cf961964" view="Default view">a38849a1dbf1030069db5901cf961937</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sys_user_has_role.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 23:11:37</sys_created_on>
+            <sys_id>638849a1dbf1030069db5901cf961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 23:11:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Guest - Default view" name="x_78333_hotel_guest" related_list="NULL" sys_domain="232b0f26dba3320069db5901cf961964" view="Default view">a38849a1dbf1030069db5901cf961937</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sys_user_grmember.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 23:11:37</sys_created_on>
+            <sys_id>6f8849a1dbf1030069db5901cf961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 23:11:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Guest - Default view" name="x_78333_hotel_guest" related_list="NULL" sys_domain="232b0f26dba3320069db5901cf961964" view="Default view">a38849a1dbf1030069db5901cf961937</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sys_user_delegate.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 23:11:37</sys_created_on>
+            <sys_id>638849a1dbf1030069db5901cf961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 23:11:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Guest - Default view" name="x_78333_hotel_guest" related_list="NULL" sys_domain="232b0f26dba3320069db5901cf961964" view="Default view">a38849a1dbf1030069db5901cf961937</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>sys_user_visibility.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 23:11:37</sys_created_on>
+            <sys_id>678849a1dbf1030069db5901cf961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 23:11:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Guest - Default view" name="x_78333_hotel_guest" related_list="NULL" sys_domain="232b0f26dba3320069db5901cf961964" view="Default view">a38849a1dbf1030069db5901cf961937</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>REL:b31dbb025b3012002eff8405f0f91a67</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 23:11:37</sys_created_on>
+            <sys_id>6b8849a1dbf1030069db5901cf961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 23:11:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Guest - Default view" name="x_78333_hotel_guest" related_list="NULL" sys_domain="232b0f26dba3320069db5901cf961964" view="Default view">a38849a1dbf1030069db5901cf961937</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>sys_user_has_license.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 23:11:37</sys_created_on>
+            <sys_id>6f8849a1dbf1030069db5901cf961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 23:11:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Guest - Default view" name="x_78333_hotel_guest" related_list="NULL" sys_domain="232b0f26dba3320069db5901cf961964" view="Default view">a38849a1dbf1030069db5901cf961937</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>x_78333_hotel_m2m_guests_reservations.guest</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 23:11:37</sys_created_on>
+            <sys_id>638849a1dbf1030069db5901cf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 23:11:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Guest - Default view</calculated_name>
+            <filter/>
+            <name>x_78333_hotel_guest</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>ysrinivasarao</sys_created_by>
+            <sys_created_on>2017-10-13 23:11:37</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>232b0f26dba3320069db5901cf961964</sys_domain>
+            <sys_domain_path>!!!/!!#/!!&amp;/</sys_domain_path>
+            <sys_id>a38849a1dbf1030069db5901cf961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Guest - Default view</sys_name>
+            <sys_package display_value="Hotel" source="x_78333_hotel">4fc7d4e1db31030069db5901cf961973</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">4fc7d4e1db31030069db5901cf961973</sys_scope>
+            <sys_update_name>sys_ui_related_x_78333_hotel_guest_null_232b0f26dba3320069db5901cf961964</sys_update_name>
+            <sys_updated_by>ysrinivasarao</sys_updated_by>
+            <sys_updated_on>2017-10-13 23:11:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

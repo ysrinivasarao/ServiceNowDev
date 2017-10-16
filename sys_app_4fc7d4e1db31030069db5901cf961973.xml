@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Hotel">93c7d42ddb31030069db5901cf9619af</menu>
+        <name>Hotel</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_78333_hotel</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_78333_hotel</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>ysrinivasarao</sys_created_by>
+        <sys_created_on>2017-10-13 19:38:36</sys_created_on>
+        <sys_id>4fc7d4e1db31030069db5901cf961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>ysrinivasarao</sys_updated_by>
+        <sys_updated_on>2017-10-13 19:38:36</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_78333_hotel.user" name="x_78333_hotel.user">57c7d42ddb31030069db5901cf9619b3</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
